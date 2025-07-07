@@ -1,5 +1,3 @@
-# FedEx_Hierarchy_Generator
-FedEx Hierarchy Generator Application
 # FedEx Employee Hierarchy Generator
 
 ## Tech Stack Overview
